@@ -1,3 +1,7 @@
+# Kevin Su has made some modificatons on this example code
+# On Sep 22th 00:30AM
+
+
 from tensorflow.examples.tutorials.mnist import input_data
 import tensorflow as tf
 import matplotlib.pyplot as plt
